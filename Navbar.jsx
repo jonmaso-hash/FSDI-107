@@ -5,7 +5,7 @@ function Navbar(){
        <nav className="navbar">
       <div className="navbar-container">
         <div className="navbar-brand">
-          🛍 <h1>My Online Store</h1>
+           <h1>"Eat Your Feelings" Online Store</h1>
         </div>
         <div className="navbar-menu">
           <ul className="navbar-nav">
